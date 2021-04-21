@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "607edd0246cadb4e3c1ac361"
+  },
+  "role": "user",
+  "isActive": 1,
+  "username": "taha",
+  "firstname": "taha",
+  "lastname": "srhayar",
+  "email": "tahasrhdev@gmail.com",
+  "password": "$2b$10$E01qIhiq.pGkReO5imSBzeHgVCutSNN5CWQYxBxAAfa5oRVOf/Ws.",
+  "phone": "0611764254",
+  "adress": "Safi,Morocco",
+  "drivingLicense": "HH107266",
+  "points": 30,
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "607edffb14c4b208b8c33411"
+  },
+  "role": "admin",
+  "isActive": 1,
+  "username": "admin",
+  "password": "$2b$10$L8KhH3QcMdmhcyowS5JsUe.T9Jr9TEjm8ff1uVK/t.bDtcAwK3DGe",
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "607ef5e0d2abdf4d50b9d107"
+  },
+  "role": "user",
+  "isActive": 1,
+  "username": "taha1",
+  "firstname": "taha",
+  "lastname": "srhayar",
+  "email": "tahasrhayar1@gmail.com",
+  "password": "$2b$10$kOYtKrzPEbfpOpxBy19UhuXxCdfOHnwon1Si7RcMIBNfAvLRppmCq",
+  "phone": "0611764254",
+  "adress": "Safi,Morocco",
+  "drivingLicense": "HH109266",
+  "points": 30,
+  "__v": 0
+}]
